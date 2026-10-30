@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.font-open-sens{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+h2{
+    color: rgb(206, 163, 106);
+}
+header{
+    background-color: rgb(245, 196, 196);
+    padding-top: 50px;
+}
+nav{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+} 
+   
