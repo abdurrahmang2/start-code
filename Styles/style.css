@@ -69,7 +69,7 @@ nav .menu a{
    }
 
    #banner .banner-content h1{
-    font-size: 85px;
+    font-size: 70px;
     font-weight: 800;
    color: #181818;
    margin-bottom: 20px;
@@ -83,6 +83,17 @@ nav .menu a{
    #banner .banner-image image{
     max-width: 590px;
     vertical-align: middle;
+   }
+   #about{
+    padding-top: 135px;
+   }
+   #about .about-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
    }
    
    
